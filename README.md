@@ -1,2 +1,0 @@
-# sneedleman
-Public Site
